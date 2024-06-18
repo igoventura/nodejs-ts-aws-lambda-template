@@ -1,0 +1,11 @@
+{
+  "name": "poc-node-ts-lambda-inversify",
+  "version": "1.0.0",
+  "description": "A Node.js AWS Lambda project template with Typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Igo Ventura",
+  "license": "MIT"
+}
