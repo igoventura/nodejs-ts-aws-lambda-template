@@ -7,5 +7,13 @@
     "test": "test"
   },
   "author": "Igo Ventura",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "aws-sdk": "^2.1644.0",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "inversify": "^6.0.2",
+    "reflect-metadata": "^0.2.2"
+  }
 }
